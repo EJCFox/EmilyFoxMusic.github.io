@@ -6,4 +6,4 @@ date: 2016-06-28
 comments: false
 ---
 
-## Gigs placeholder
+Sorry, I currently have no upcoming gigs.

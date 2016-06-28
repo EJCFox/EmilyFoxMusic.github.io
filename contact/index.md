@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contact
-tags: [contact, email]
+tags: [contact, facebook, youtube email]
 date: 2016-06-28
 comments: false
 ---
 
-## Contact placeholder
+You can find me on [YouTube](https://www.youtube.com/user/Foxxemusic) and [Facebook](https://www.facebook.com/EmilyFoxMusic/). You may also email me at [foxxemusicmail@gmail.com](mailto:foxxemusicmail@gmail.com).
