@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tags: [about, Emily Fox, introduction]
+tags: [about, introduction]
 date: 2016-06-28
 comments: true
 ---
