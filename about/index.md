@@ -1,37 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+title: About Me
+tags: [about, Emily Fox, introduction]
+date: 2016-06-28
+comments: true
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Who Am I?
 
-## Preview
+I am a musician. I am a Computer Science graduate. I am a Christian. I will shortly be a full-time software developer. I love Linux. I am on the YouTube. I enjoy pretending to be creative. I write songs. I have an addiction to playing new instruments.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I am embarking on a six month journey of **discovery** and **adventure**. Or, at least playing at being a full-time musician. Same difference, right?
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Around the web you might find me doing any of:
 
-## Getting Started
+* Making videos on [YouTube](https://www.youtube.com/user/FoxxeMusic).
+* Blogging about tech, or whatever else is on my mind.
+* Releasing [original music](https://emilyfoxmusic.bandcamp.com/).
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+If you have any ideas for content, or have questions for me, feel free to drop me an email or leave a comment below or elsewhere on my sites.
