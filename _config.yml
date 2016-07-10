@@ -9,6 +9,7 @@ background:         'assets/img/Background.JPG'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_GB
 url:                http://www.emilyfoxmusic.co.uk
+#http://127.0.0.1:4000/
 
 # Jekyll
 permalink:          /:title/
@@ -59,6 +60,7 @@ youtube:            Foxxemusic
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+bandcamp:	    emilyfoxmusic
 
 # Gems
 gems:
