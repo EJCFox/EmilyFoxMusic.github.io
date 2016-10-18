@@ -6,7 +6,7 @@ date: 2016-07-09
 comments: false
 ---
 
-My original music is available for free download on [Bandcamp](emilyfoxmusic.bandcamp.com). // My videos can be found on my [YouTube channel](https://www.youtube.com/user/FoxxeMusic).
+My original music is available for free download on [Bandcamp](http://emilyfoxmusic.bandcamp.com). // My videos can be found on my [YouTube channel](https://www.youtube.com/user/FoxxeMusic).
 
 ---
 
